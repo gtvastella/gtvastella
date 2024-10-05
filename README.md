@@ -11,23 +11,23 @@ I'm Gabriel Vastella, a **Full-stack Developer** with a passion for solving real
 Here are some of the tools and technologies I work with daily:
 
 **Backend**  
-🐍 Python (Django, FastAPI, Flask, Celery, Boto3)  
+🐍 Python (Django, FastAPI, Flask, Celery, Boto3) 
 🐘 PHP (Laravel, Yii2)  
 🐇 RabbitMQ, Redis  
 
 **Frontend**  
-⚛️ React
-🌐 VueJS
-🖼️ Bootstrap/Tailwind
+⚛️ React  
+🌐 VueJS  
+🖼️ Bootstrap/Tailwind  
 
 **Databases**  
 💾 SQL (MySQL, PostgreSQL)  
 🗄️ NoSQL (MongoDB, DynamoDB)
 
 **DevOps**  
-🐳 Docker/Docker compose/Containers
-🔄 Microservices, Serverless
-☁️ AWS (Lambda, SQS, RDS, EC2, S3, DynamoDB)  
+🐳 Docker/Docker compose/Containers  
+🔄 Microservices, Serverless  
+☁️ AWS (Lambda, SQS, RDS, EC2, S3, DynamoDB)    
 
 ## Let's Connect 🌐
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielvastella)
