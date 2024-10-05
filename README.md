@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey! 👋 I'm Gabriel Vastella
 
-<!--
-**gtvastella/gtvastella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielvastella-blue)](https://www.linkedin.com/in/gabrielvastella)
+[![GitHub](https://img.shields.io/badge/GitHub-gtvastella-black)](https://github.com/gtvastella)
+[![Website](https://img.shields.io/badge/Website-gvastella.com.br-green)](http://gvastella.com.br)
 
-Here are some ideas to get you started:
+## About me 🙋‍♂️
+I'm Gabriel Vastella, a **Full-stack Developer** with a passion for solving real-world problems with code. Graduated from State University of Campinas (UNICAMP) 🧑‍🎓, I create and maintain fullstack applications using modern programming standards and practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 🚀
+Here are some of the tools and technologies I work with daily:
+
+**Backend**  
+🐍 Python (Django, FastAPI, Flask, Celery, Boto3)  
+🐘 PHP (Laravel, Yii2)  
+🐇 RabbitMQ, Redis  
+
+**Frontend**  
+⚛️ React
+🌐 VueJS
+🖼️ Bootstrap/Tailwind
+
+**Databases**  
+💾 SQL (MySQL, PostgreSQL)  
+🗄️ NoSQL (MongoDB, DynamoDB)
+
+**DevOps**  
+🐳 Docker/Docker compose/Containers
+🔄 Microservices, Serverless
+☁️ AWS (Lambda, SQS, RDS, EC2, S3, DynamoDB)  
+
+## Let's Connect 🌐
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielvastella)
+- 💻 [Portfolio](http://gvastella.com.br)
+- 🐙 [GitHub](https://github.com/gtvastella)
+
