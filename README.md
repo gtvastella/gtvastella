@@ -27,10 +27,10 @@ Here are some of the tools and technologies I work with daily:
 🗄️ NoSQL (MongoDB, DynamoDB)
 
 **DevOps**  
-🐳 Docker/Docker compose/Containers
-☸️ Kubernetes/EKS
-🔄 Microservices, Serverless
-☁️ AWS (Lambda, SQS, RDS, EC2, S3, DynamoDB, EKS, ECR, Cloudwatch)
+🐳 Docker/Docker compose/Containers  
+☸️ Kubernetes/EKS  
+🔄 Microservices, Serverless  
+☁️ AWS (Lambda, SQS, RDS, EC2, S3, DynamoDB, EKS, ECR, Cloudwatch)  
 
 ## Let's Connect 🌐
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielvastella)
