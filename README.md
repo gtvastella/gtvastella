@@ -14,6 +14,7 @@ Here are some of the tools and technologies I work with daily:
 🐍 Python (Django, FastAPI, Flask, Celery, Boto3)   
 🐘 PHP (Laravel, Yii2)  
 🐇 RabbitMQ, Redis  
+｡🇯‌🇸‌ Node.js/Express
 
 **Frontend**  
 ⚛️ React  
@@ -26,9 +27,10 @@ Here are some of the tools and technologies I work with daily:
 🗄️ NoSQL (MongoDB, DynamoDB)
 
 **DevOps**  
-🐳 Docker/Docker compose/Containers  
+🐳 Docker/Docker compose/Containers 
+☸️ Kubernetes/EKS
 🔄 Microservices, Serverless  
-☁️ AWS (Lambda, SQS, RDS, EC2, S3, DynamoDB)    
+☁️ AWS (Lambda, SQS, RDS, EC2, S3, DynamoDB, EKS, ECR, Cloudwatch)
 
 ## Let's Connect 🌐
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielvastella)
